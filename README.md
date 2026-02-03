@@ -14,6 +14,9 @@ cd server-performance-stats
 ### 3. Execute the script
 `./server-stats.sh`
 
+
+You should be able to run the script on any Linux server and it should give you the following stats:
+
 * Total CPU usage
 
 * Total memory usage (Free vs Used including percentage)
