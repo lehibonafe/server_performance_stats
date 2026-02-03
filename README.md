@@ -1,4 +1,4 @@
-## Service Performance Stats
+## Service Performance Statistics
 
 A bash script to analyse basic server performance stats.
 
