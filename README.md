@@ -1,6 +1,6 @@
 ## Service Performance Statistics
 
-A bash script to analyse basic server performance stats.
+A bash script to analyse basic server performance stats on Linux server.
 
 ### 1. Clone the repository
 ```
@@ -13,3 +13,13 @@ cd server-performance-stats
 
 ### 3. Execute the script
 `./server-stats.sh`
+
+* Total CPU usage
+
+* Total memory usage (Free vs Used including percentage)
+
+* Total disk usage (Free vs Used including percentage)
+
+* Top 5 processes by CPU usage
+
+* Top 5 processes by memory usage
