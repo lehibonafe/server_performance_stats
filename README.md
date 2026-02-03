@@ -1,10 +1,12 @@
-Service Performance Stats
+## Service Performance Stats
 
 A bash script to analyse basic server performance stats.
 
 ### 1. Clone the repository
-`git clone https://github.com/lehibonafe/server_performance_stats.git`
-`cd server-performance-stats`
+```
+git clone https://github.com/lehibonafe/server_performance_stats.git
+cd server-performance-stats
+```
 
 ### 2. Make the script executable
 `chmod +x server_stats.sh`
