@@ -12,7 +12,9 @@ cd server-performance-stats
 `chmod +x server_stats.sh`
 
 ### 3. Execute the script
-`./server-stats.sh`
+`./server-stats.sh`  
+  
+  
 
 
 You should be able to run the script on any Linux server and it should give you the following stats:
